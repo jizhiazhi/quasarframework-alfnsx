@@ -67,7 +67,8 @@ const linksList = [
   {
     title: 'Twitterr',
     caption: '@quasarframework',
-    icon: 'rss_feed',
+    icon: 'record_voice_over',
+    //icon: 'rss_feed',
     link: 'https://twitter.quasar.dev',
   },
   {
