@@ -65,7 +65,7 @@ const linksList = [
     link: 'https://forum.quasar.dev',
   },
   {
-    title: 'Twitter',
+    title: 'Twitterr',
     caption: '@quasarframework',
     icon: 'rss_feed',
     link: 'https://twitter.quasar.dev',
